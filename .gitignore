@@ -1,0 +1,11 @@
+data/dataset/
+data/words*
+data/words.txt
+out/segmentation_output/
+out/vision_output/
+src/__pycache__/
+notes/
+*.so
+*.pyc
+.idea/
+dump/

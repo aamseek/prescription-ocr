@@ -1,0 +1,3 @@
+1. segmentation
+2. send printed text to google vision and then to comprehend
+3. send handwritten text to custom LSTM model for medicine extraction
