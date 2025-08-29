@@ -122,10 +122,7 @@ Training on text lines takes a bit longer.
 
 ## Information about model
 
-The model is a stripped-down version of the HTR system I implemented for [my thesis]((https://repositum.tuwien.ac.at/obvutwhs/download/pdf/2874742)).
-What remains is the bare minimum to recognize text with an acceptable accuracy.
-It consists of 5 CNN layers, 2 RNN (LSTM) layers and the CTC loss and decoding layer.
-For more details see this [Medium article](https://towardsdatascience.com/2326a3487cd5).
+The model consists of 5 CNN layers, 2 RNN (LSTM) layers and the CTC loss and decoding layer.
 
 
 ## References
