@@ -1,5 +1,3 @@
-base code taken from githubharald/SimpleHTR
-
 # Handwritten Text Recognition with TensorFlow
 
 * **Update 2021/2: recognize text on line level (multiple words)**
@@ -124,9 +122,14 @@ Training on text lines takes a bit longer.
 
 The model consists of 5 CNN layers, 2 RNN (LSTM) layers and the CTC loss and decoding layer.
 
+## Acknowledgements
+
+This project is adapted from [githubharald/SimpleHTR](https://github.com/githubharald/SimpleHTR) for the purpose of handwriting recognition in doctors’ prescriptions.
 
 ## References
-* [Build a Handwritten Text Recognition System using TensorFlow](https://towardsdatascience.com/2326a3487cd5)
+* [Build a Handwritten Text Recognition System using TensorFlow](https://harald-scheidl.medium.com/build-a-handwritten-text-recognition-system-using-tensorflow-2326a3487cd5)
 * [Scheidl - Handwritten Text Recognition in Historical Documents](https://repositum.tuwien.ac.at/obvutwhs/download/pdf/2874742)
 * [Scheidl - Word Beam Search: A Connectionist Temporal Classification Decoding Algorithm](https://repositum.tuwien.ac.at/obvutwoa/download/pdf/2774578)
+* [Arthur F. - Handwritten Text Recognition](https://github.com/arthurflor23/handwritten-text-recognition)
+* [Opensoft](https://github.com/piyush-jena/Opensoft)
 
